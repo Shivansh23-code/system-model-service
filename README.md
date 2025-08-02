@@ -21,5 +21,12 @@ This microservice allows CRUD operations on modular system models (like engine, 
 4. Test endpoints using Postman
 
 ---
+## 🔍 Swagger API Docs
+
+📫 **Base URL**: `http://localhost:8090`
+
+🧭 **Swagger UI**: [http://localhost:8090/swagger-ui.html](http://localhost:8090/swagger-ui.html)
+
+Explore and test all endpoints interactively via Swagger UI.
 
 ✅ Built with 💻 by Shivansh Tiwari
